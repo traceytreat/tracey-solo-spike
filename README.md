@@ -4,3 +4,7 @@ For this spike I tried using tesseract.js on a few images (located in public/ima
 To run:
 1. npm install
 2. npm start
+
+To change image:
+1. add image to public/images folder
+2. Change both of the urls in the TesseractDemo component.
